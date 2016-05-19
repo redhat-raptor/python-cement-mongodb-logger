@@ -1,5 +1,3 @@
-#!/bin/env python
-
 from cement.core.foundation import CementApp
 from log4mongo.handlers import MongoHandler
 
